@@ -65,3 +65,29 @@ const Nav = () => {
 };
 
 export default Nav;
+
+/*  
+  // do something with the input values
+    // for example, send them to an API or console.log them
+    // console.log(name, email, message);
+    // create an object with the input values
+     const data = { name, email, message };
+    // define the API endpoint
+    // const url = "http://localhost:5000/";
+    // use axios to make a POST request with the data as the body
+    try {
+      const response = await axios.post("http://localhost:5000", data);
+      
+      // do something with the response data
+      // for example, show a success message or handle errors
+      if (response) {
+        console.log(response.data);
+      } else {
+        console.log("something went wrong during response")
+      }
+      
+    } catch(error) {
+    // handle any errors
+     console.error(error);
+  };
+  */

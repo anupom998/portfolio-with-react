@@ -39,7 +39,7 @@ const About = () => {
               About Me
             </h2>
             <h3 className='h3 mb-4'>
-              I am a freelance full-stack developer.
+              I am a <span id='free'>freelance</span> full-stack developer.
             </h3>
             <p className='mb-6'>
               I am a MERN stack web developer who can build <span className='text-gradient'>dynamic</span> and <span className='text-gradient'>responsive</span> web applications. I am passionate about learning new skills and exploring new challenges in web development. I am always eager to <span className='text-gradient'>collaborate</span> with other developers and clients to deliver <span className='text-gradient'>high-quality products</span> that meet their needs and expectations. 

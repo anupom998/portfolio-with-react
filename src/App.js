@@ -18,15 +18,16 @@ const App = () => {
       <Header />
       <Banner />
       <Nav />
-      <About />
-      {/* <Services /> */}
+      <About /> 
+      {/* <Services />   */}
       <Work />
       <Contact />
-      <div className='h-[200px]'></div>
-    </div>
+      <div className='h-[200px]'></div> 
+    </div> 
   );
 };
 
 export default App;
+
 
 
