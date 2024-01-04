@@ -102,3 +102,6 @@ const Work = () => {
 };
 
 export default Work;
+
+// message for me 
+/* in this section the projects were not organized perfectly in large and extra large devices. so you organize or align them manually by giving them margin top watch line no 34 lg:mt-8 and watch line no 79 lg:mt-9 xl:mt-0  */
